@@ -1,0 +1,112 @@
+body {
+    display: flex;
+    background-color: #000;
+    justify-content: center;
+    align-items: center;
+    height: 85vh; /* Full viewport height */
+    margin: 0;
+
+}
+
+#matrix{
+    position: fixed;
+    display: block;/* Ensures it stays in the background */
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.container {
+    background-color: #1F2937;
+    padding-top: 40px;
+    padding-left: 52px;
+    padding-right: 52px;
+    height: 450px;
+    width: 550px;
+    text-align: left;
+    border:none;
+    border-radius: 6px;
+    z-index: 1;
+}
+
+.header {
+    margin-bottom: 10px;
+}
+
+#Generate{
+    color: white;
+    font-family: Karla, sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 40px;
+    letter-spacing: -0.025em;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+#randomPass {
+    color: #4ADF86;
+    font-family: Karla, sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 40px;
+    letter-spacing: -0.025em;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+#text {
+    color: #D5D4D8;
+    font-family: Inter, sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+    line-height: 0;
+    text-align: left;
+    margin-top: 0;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+#generate-btn{
+    margin-top: 40px;
+    width: 191px;
+    height: 41px;
+    border-radius: 6px;
+    padding: 9px 17px 9px 15px;
+    background-color: #10B981;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: Inter, sans-serif;
+    border: none;
+
+}
+
+hr{
+    margin-top: 35px;
+    border: 1px solid;
+    border-color: #2F3E53;
+}
+
+.output-container{
+    margin-top: 35px;
+    display: flex;
+    gap: 50px;
+}
+
+.output-box{
+    width: 300px;
+    height: 39px;
+    text-align: center;
+    border: none;
+    border-radius: 6px;
+    background-color: #273549;
+    font-family: Inter, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 40px;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #55F991;
+
+}
