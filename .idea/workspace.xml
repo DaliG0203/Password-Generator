@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d8f6e1f-d45d-4734-8b57-5aeed428341a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Matrixbgrnd/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matrixbgrnd/matrix.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matrixbgrnd/matrix.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
-    </list>
+    <list default="true" id="6d8f6e1f-d45d-4734-8b57-5aeed428341a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739030445849</updated>
-      <workItem from="1739030446899" duration="7927000" />
+      <workItem from="1739030446899" duration="8470000" />
     </task>
     <servers />
   </component>
